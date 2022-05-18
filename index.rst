@@ -10,8 +10,8 @@ Welcome to STOmics Data Archive's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   Project/project
-   Sample/sample
+   Project/Project
+   Sample/Sample
 
 
 
