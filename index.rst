@@ -3,15 +3,15 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to STOmics Data Archive's documentation!
+STOmicsDB: STOmics Data Archive
 ================================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
+   :maxdepth: 1
+   :caption: STOmics data Submission
 
-   Project/Project
-   Sample/Sample
+   Standard/Project
+   Standard/Sample
 
 
 
