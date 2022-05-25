@@ -3,8 +3,11 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-STOmicsDB: STOmics Data Archive
+SpatioTemporal Omics Data Archive
 ================================================
+
+Welcome to the documents for submission of SpatioTemporal Omics data for `STOmics DB <https://db.cngb.org/stomics/>`_. Please use the links to find instructions specific to your needs.
+
 
 .. toctree::
    :maxdepth: 1
@@ -12,12 +15,3 @@ STOmicsDB: STOmics Data Archive
 
    Standard/Project
    Standard/Sample
-
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
