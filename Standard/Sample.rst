@@ -6,7 +6,7 @@ Description of biological source material; each physically unique specimen shoul
 \*sample name :
 
 * Definition: An arbitrary and unique identifier for each sample.
-* Note: The sample name is used to associate Sample with other data objects.
+* Note: The sample name is used to associate Sample with other objects.
 
 \*sample title :
 
