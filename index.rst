@@ -15,3 +15,4 @@ Welcome to the documents for submission of SpatioTemporal Omics data for `STOmic
 
    Standard/Project
    Standard/Sample
+   Standard/TissueSection
