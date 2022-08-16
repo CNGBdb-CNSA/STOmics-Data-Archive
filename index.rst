@@ -16,9 +16,14 @@ An approach is to capture transcripts in situ, then perform sequencing ex situ.
 
 .. toctree::
    :maxdepth: 1
-   :caption: STOmics data Submission
+   :caption: STOmics data Standard
 
    Standard/Project
    Standard/Sample
    Standard/TissueSection
    Standard/Experiment&Run
+   Standard/Analysis
+
+.. toctree::
+   :maxdepth: 1
+   :caption: STOmics data Submission
