@@ -11,7 +11,7 @@ Spatial coordinate index data,  contains Spatial Barcode/Coordinate Identity (CI
 .. image:: ./images/Primer.jpg
 
 Gene Expression Information
-------------------------
+---------------------------
 
 Gene expression information is usually given in the form of matrix, which records the number of UMIs/MIDs associated with a feature and a barcode/CID.
 
