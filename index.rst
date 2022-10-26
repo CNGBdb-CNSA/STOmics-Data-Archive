@@ -29,6 +29,7 @@ An approach is to capture transcripts in situ, then perform sequencing ex situ.
    :caption: STOmics Data Submission
 
    Submit/general-guide
+   Submit/project
 
 
 .. toctree::

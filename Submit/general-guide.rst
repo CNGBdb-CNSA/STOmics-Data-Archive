@@ -12,12 +12,11 @@ Getting Started
 
    general-guide/registration
    general-guide/submitter
-   general-guide/application
    general-guide/metadata
    general-guide/accessions
 
-Project Registration
---------------------
+
+
 
 
 
