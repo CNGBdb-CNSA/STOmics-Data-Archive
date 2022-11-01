@@ -38,7 +38,7 @@ You can register a new project, or use an already registered project.
 Offline template submission
 ---------------------------
 
-There are some information are submitted with Offline template:
+There are some information are submitted with offline template:
 
 - Sample
 - Tissue Section
