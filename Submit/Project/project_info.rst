@@ -1,13 +1,13 @@
-Project Information
+Project Submission
 ===================
 
 The project mainly involves the following information:
 
 - \*Project title
 - \*Summary
-- \*Project data type (multiple choices)
+- \*Project data type (multiple choices) ::
 
- | "STOmics" selected by default.
+ | ``STOmics`` selected by default.
  | If no data type listed suitable for you, you can choose "other", and provide additional information to describe your project data type.
 
 - \*Sample scope (drop-down menu)
@@ -24,4 +24,3 @@ The project mainly involves the following information:
 - \*Experimental protocols file
 
  | The document should be submitted in Microsoft Word Document (DOCX/DOC) or Portable Document Format (PDF).
- 

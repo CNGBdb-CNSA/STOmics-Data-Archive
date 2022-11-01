@@ -5,7 +5,7 @@ Sample is registered with template which can be downloaded at :download:`https:/
 
 In the `STOmics sample` template, the green fields are mandatory, and the yellow fields are optional.
 
-- ``sample name``
+- ``**sample name**``
 
  | User-defined name for the sample. It is unique for each sample. It cannot be modified if submitted, because it only used for objects association in the database.
 
