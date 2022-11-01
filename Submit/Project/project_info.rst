@@ -7,8 +7,8 @@ The project mainly involves the following information:
 - \*Summary
 - \*Project data type (multiple choices)
 
-    - ``STOmics`` selected by default.
-    - If no data type listed suitable for you, you can choose "other", and provide additional information to describe your project data type.
+    | ``STOmics`` selected by default.
+    | If no data type listed suitable for you, you can choose "other", and provide additional information to describe your project data type.
 
 - \*Sample scope (drop-down menu)
 - Relevance (drop-down menu)
