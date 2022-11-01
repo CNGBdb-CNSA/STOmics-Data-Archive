@@ -14,26 +14,3 @@ Getting Started
    general-guide/submitter
    general-guide/metadata
    general-guide/accessions
-
-
-
-
-
-
-Sample Registration
--------------------
-
-
-Tissue Section Registration
----------------------------
-
-
-Data files Preparation
-----------------------
-
-Experiment & Run Submission
----------------------------
-
-
-Analysis Submission
--------------------
