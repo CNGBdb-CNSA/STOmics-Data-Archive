@@ -11,6 +11,6 @@ To start submitting STOmics data, submitter who claimed ownership of the data sh
 
 .. note::
 
-	 - Please be more careful to register submitter. Once submited, it cannot be modified by yourself, and it will be applied to all subsequent submitted data in your account by default.
+   - Please be more careful to register submitter. Once submited, it cannot be modified by yourself, and it will be applied to all subsequent submitted data in your account by default.
    - If you need to modify it, please contact datasubs@cngb.org.
    - If you found that the submitter has not been reviewed, please contact us immediately. It will affect your creating a new submission.
