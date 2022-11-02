@@ -1,8 +1,6 @@
 Sample Registration
 ===================
 
-Sample is registered with template which can be downloaded at :download:`https://ftp.cngb.org/pub/stomics/template/`.
-
 In the **STOmics sample** template, the green fields are mandatory, and the yellow fields are optional.
 
 - ``sample name``
@@ -39,10 +37,17 @@ In the **STOmics sample** template, the green fields are mandatory, and the yell
 
  | It is restricted text. Specify as degrees latitude and longitude in format "d[d.dddd] N\|S d[dd.dddd] W\|E", eg, 38.98 N 77.11 W.
 
+For more detailed explanation for the fields, please refer to the standard below:
+
+.. toctree::
+   :maxdepth: 1
+
+   ../../Standard/Sample
+
 .. important::
 
    - The number of the Sample filled in the template cannot be larger than 100, and the template file cannot be larger than 10MB.
-   - ``Sample name`` cannot be modified. ``Sample title`` can be modified because it is for publication.
+   - ``sample name`` cannot be modified. ``sample title`` can be modified because it is for publication.
    - Each of your samples must have differentiating information (excluding ``sample name``, ``sample title``, and ``description``). This check was implemented to encourage submitters to include distinguishing information in their samples. If it is necessary to represent true biological replicates as separate Samples, you might add an 'aliquot' or 'replicate' attribute, e.g., 'replicate = biological replicate 1', as appropriate.
    - The ``taxonomy ID`` and ``organism`` should be consistent with each other.
    - ``geographic location`` and ``latitude and longitude`` (if filled in) should be consistent with each other.
