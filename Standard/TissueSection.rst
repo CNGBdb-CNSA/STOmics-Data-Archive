@@ -42,7 +42,7 @@ slice position:
 * Field Format: restricted text
 * Expected value: measurement value
 * Value syntax: {float} {unit} [deg C]
-* Preferred unit: degree Celsius, ºC
+* Preferred unit: degree Celsius, °C
 
 \*tissue section size:
 
@@ -58,7 +58,7 @@ slice position:
 * Field Format: restricted text
 * Expected value: measurement value
 * Value syntax: {integer} {unit}
-* Preferred unit: micrometer, µm
+* Preferred unit: micrometer, μm
 
 RIN:
 

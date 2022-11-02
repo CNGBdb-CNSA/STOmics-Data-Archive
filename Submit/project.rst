@@ -34,16 +34,3 @@ You can register a new project, or use an already registered project.
    :maxdepth: 1
 
    Project/project_info
-
-Offline template submission
----------------------------
-
-There are some information are submitted with offline template:
-
-- Sample
-- Tissue Section
-- Experiment & Run (if sequencing reads choose to be submitted)
-- STOmics Analysis
-- Other
-
-These templates can be downloaded at :download:`https://ftp.cngb.org/pub/stomics/`.

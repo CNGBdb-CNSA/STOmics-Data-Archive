@@ -30,7 +30,7 @@ An approach is to capture transcripts in situ, then perform sequencing ex situ.
 
    Submit/general-guide
    Submit/project
-   Submit/sample
+   Submit/offline_submit
 
 
 .. toctree::
