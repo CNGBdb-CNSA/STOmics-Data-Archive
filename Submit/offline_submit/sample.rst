@@ -1,4 +1,4 @@
-Sample Registration
+Sample registration
 ===================
 
 In the **STOmics sample** template, the green fields are mandatory, and the yellow fields are optional.
@@ -36,6 +36,7 @@ In the **STOmics sample** template, the green fields are mandatory, and the yell
 - ``latitude and longitude``
 
  | It is restricted text. Specify as degrees latitude and longitude in format "d[d.dddd] N\|S d[dd.dddd] W\|E", eg, 38.98 N 77.11 W.
+
 
 For more detailed explanation for the fields, please refer to the standard below:
 

@@ -1,4 +1,4 @@
-Tissue Section Registration
+Tissue Section registration
 ===========================
 
 There are two ways/templates to register Tissue Section. You can choose one to submit your tissue sections.
