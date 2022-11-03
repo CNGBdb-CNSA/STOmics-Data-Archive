@@ -1,9 +1,9 @@
-Project Registration
+Project registration
 ====================
 
 Before to register your project, you should fill in a submission application first, which mainly used to declare the legal compliance of the project data.
 
-Submission application
+Submission Application
 ----------------------
 
 .. toctree::
@@ -11,7 +11,7 @@ Submission application
 
    Project/application
 
-Spatial technology
+Spatial Technology
 ------------------
 
 There are two popular technologies:

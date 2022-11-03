@@ -1,4 +1,4 @@
-Project Submission
+Project submission
 ===================
 
 The project mainly involves the following information:
