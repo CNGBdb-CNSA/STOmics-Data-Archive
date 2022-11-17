@@ -1,7 +1,7 @@
 MD5 Checksum
 ============
 
-This is a 32-character alphanumeric string (e.g. 7da8a01243d3ac4a4f0aa02a172bd476) that can be computed for each file with native command line tools `md5` (**Mac OS X**) or `md5sum` (**Linux**).
+This is a 32-character alphanumeric string (e.g. 9F6E6800CFAE7749EB6C486619254B9C) that can be computed for each file with native command line tools `md5` (**Mac OS X**) or `md5sum` (**Linux**).
 
 For **Windows** users, there are several ways.
 
