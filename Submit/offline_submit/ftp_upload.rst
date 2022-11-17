@@ -3,9 +3,6 @@ File Transfer Protocol (FTP)
 
 .. tip::
 
-   - File names should NOT include any sensitive information (these will appear publicly).
-   - File names should be unique (DO NOT upload subdirectories containing identically-named files).
-   - Avoid whitespace and special characters in file names. Use only alphanumerals [A-Z, a-z, 0-9], underscores [_] and dots [.].
    - Please use passive & binary modes when transferring files.
    - The FTP server is a temporary storage space. Files will be moved to an internal location for archive and assigning of accessions.
    - Files deposited on the FTP site are not displayed under 'My Submissions' on the web interface. The web interface only displays accessioned submissions.
@@ -28,7 +25,7 @@ Many reliable **FTP clients** can be found on Internet. For example, `Filezilla 
 
 .. image:: ../images/site_transfer.jpg
 
-.. image:: ../images/site_transfer.jpg
+.. image:: ../images/ftp_password.jpg
 
 .. important::
 
@@ -45,7 +42,9 @@ Using FTP command to transfer files
 
 **FTP command** can be executed in **Linux/Unix**, **Mac OS Terminal**.
 
-::
+
+.. code:: Linux
+
   # Establish FTP connection
   ftp ftp.cngb.org
   # Go to the local directory containing your submission files

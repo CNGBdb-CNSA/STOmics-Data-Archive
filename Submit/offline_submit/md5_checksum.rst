@@ -14,7 +14,8 @@ For **Windows** users, there are several ways.
 
    - Enter the following command to calculate the MD5 value:
 
-     ::
+  .. code:: Linux
+
        CertUtil -hashfile Path\filename MD5
 
    For example,
@@ -25,11 +26,12 @@ For **Windows** users, there are several ways.
 
    Open Windows PowerShell, enter the following command to calculate the MD5 value:
 
-   ::
+   .. code:: Linux
+   
      Get-FileHash Path\filename -Algorithm MD5| Format-List
 
    For example,
 
    .. image:: ../images/windows_powershell.png
 
-3. Using the third party tools, e.g. ..`Fsum Frontend <http://sourceforge.net/projects/fsumfe/>`_.
+3. Using the third party tools, e.g. `Fsum Frontend <http://sourceforge.net/projects/fsumfe/>`_.
