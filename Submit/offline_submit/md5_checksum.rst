@@ -14,7 +14,7 @@ For **Windows** users, there are several ways.
 
    - Enter the following command to calculate the MD5 value:
 
-  .. code:: Linux
+     .. code:: Linux
 
        CertUtil -hashfile Path\filename MD5
 
@@ -27,7 +27,7 @@ For **Windows** users, there are several ways.
    Open Windows PowerShell, enter the following command to calculate the MD5 value:
 
    .. code:: Linux
-   
+
      Get-FileHash Path\filename -Algorithm MD5| Format-List
 
    For example,
