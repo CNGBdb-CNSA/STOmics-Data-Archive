@@ -47,19 +47,28 @@ Using FTP command to transfer files
 
   # Establish FTP connection
   ftp ftp.cngb.org
+
   # Go to the local directory containing your submission files
   lcd local_path_to_your_files
+
   # Use the put command to place one file (or mput for multiple files) into the FTP directory
   put file_name
   mput *
 
 other commands you may use:
 
-::
+.. code:: Linux
+
   ls # to list the names of the files in the current remote directory
+
   mkdir # to make a new directory within the current remote directory
+
   cd # to change directory on the remote machine
+
   pwd # to find out the pathname of the current directory on the remote machine
+
   rmdir # to remove (delete) a directory in the current remote directory
+
   delete # to delete (remove) a file in the current remote directory (same as `rm` in UNIX)
+
   quit # to exit the FTP environment (same as `bye`)
