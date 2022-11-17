@@ -6,9 +6,9 @@ File name restrictions
 
 .. important::
 
-- File names should NOT include any sensitive information (these will appear publicly).
-- File names should be unique (DO NOT upload subdirectories containing identically-named files).
-- Avoid whitespace and special characters in file names. Use only alphanumerals [A-Z, a-z, 0-9], underscores [_] and dots [.].
+   - File names should NOT include any sensitive information (these will appear publicly).
+   - File names should be unique (DO NOT upload subdirectories containing identically-named files).
+   - Avoid whitespace and special characters in file names. Use only alphanumerals [A-Z, a-z, 0-9], underscores [_] and dots [.].
 
 File upload options
 -------------------
