@@ -47,7 +47,7 @@ For more detailed explanation for the fields, please refer to the standard below
 
 .. important::
 
-   - The number of the Sample filled in the template cannot be larger than 100, and the template file cannot be larger than 10MB.
+   - The number of the Sample filled in the template cannot be greater than 100, and the template file cannot be greater than 10MB.
    - ``sample name`` cannot be modified. ``sample title`` can be modified because it is for publication.
    - Each of your samples must have differentiating information (excluding ``sample name``, ``sample title``, and ``description``). This check was implemented to encourage submitters to include distinguishing information in their samples. If it is necessary to represent true biological replicates as separate Samples, you might add an 'aliquot' or 'replicate' attribute, e.g., 'replicate = biological replicate 1', as appropriate.
    - The ``taxonomy ID`` and ``organism`` should be consistent with each other.

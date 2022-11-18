@@ -61,6 +61,6 @@ In the **Tissue section** template, the green fields are mandatory, and the yell
 
 .. important::
 
-   - The number of the Tissue Section filled in the template cannot be larger than 100, and the template file cannot be larger than 10MB.
+   - The number of the Tissue Section filled in the template cannot be greater than 100, and the template file cannot be greater than 10MB.
    - ``tissue section alias`` cannot be modified. ``tissue section ID`` can be modified because it is for publication.
    - If need to modify tissue section, the assigned tissue section accession number can not be modified.
