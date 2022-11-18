@@ -19,6 +19,9 @@ There are three ways to upload your data files, the login details can be find `h
    :maxdepth: 1
 
    ftp_upload
+   aspera_command_line
+
+   - Computer Cluster (Exclusively for BGI employees)
 
 MD5 Checksum
 ------------
