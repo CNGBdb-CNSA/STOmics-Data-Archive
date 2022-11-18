@@ -1,5 +1,5 @@
-Aspera Command Line upload
-==========================
+Aspera Command Line
+===================
 
 You may use the following command to upload files via Aspera Command-Line:
 
