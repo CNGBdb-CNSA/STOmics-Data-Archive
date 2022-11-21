@@ -65,7 +65,7 @@ RIN:
 * Definition: RNA Integrity Number (RIN) should be ≥7 and RNA quality assessment should be done before placing the tissue sections on the Spatial slides. Various factors could lead to low RIN scores, such as specific tissue types, diseased or necrotic tissues, sample preparation and handling.
 * Field Format: restricted text
 * Expected value: measurement value
-* Value syntax: {integer}
+* Value syntax: {float}
 
 tissue score:
 

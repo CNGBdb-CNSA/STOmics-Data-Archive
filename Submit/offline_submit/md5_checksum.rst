@@ -7,7 +7,7 @@ For **Windows** users, there are several ways.
 
 1. Using command line program for Windows
 
-   - Press the Windows icon + R, the following interface appears, enter `cmd` to open the program.
+   - Press the Windows icon + R, the following interface appears, enter ``cmd`` to open the program.
 
      .. image:: ../images/open_cmd.png
      .. image:: ../images/windows_cmd.png

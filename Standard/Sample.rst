@@ -75,7 +75,7 @@ collected by :
 
 latitude and longitude :
 
-* Definition: The geographical coordinates of the location where the sample was collected. Specify as degrees latitude and longitude in format "d[d.dddd] N|S d[dd.dddd] W|E", eg, 38.98 N 77.11 W
+* Definition: The geographical coordinates of the location where the sample was collected. Specify as degrees latitude and longitude in format "d[d.dddd] N|S d[dd.dddd] W|E", e.g., 38.98 N 77.11 W
 * Field Format: restricted text
 * Expected value: decimal degrees
 * Value syntax: {float} {float}

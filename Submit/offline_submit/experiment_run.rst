@@ -5,7 +5,7 @@ The sequencing reads can be submitted in `the STOmics submission portal <https:/
 
 The template consists of four parts:
 
-1. Metadata, describing associated tissue section, spatial slides, library and sequencing information.
+1. **Metadata**, describing associated tissue section, spatial slides, library and sequencing information.
 
    |  Metadata is required and cannot be left blank.
    |  ``tissue section alias``: multiple values ​​are supported, separated by commas.
@@ -13,7 +13,7 @@ The template consists of four parts:
    |  ``library name`` is unique for each library.
    |  Fixed value or drop-down options have been given for some fields.
 
-2. Fastq data files
+2. **Fastq data files**
 
  ``.fastq.gz``, ``.fastq.bz2``, ``.fq.gz``, ``.fq.bz2`` are accept for fastq format data files.
 
@@ -21,11 +21,11 @@ The template consists of four parts:
 
  The fastq format is the most commonly submitted.
 
-3. Aligned data files
+3. **Aligned data files**
 
  The file name needs to be suffixed with ``.bam``. The md5 value is also required.
 
-4. Referenece data files
+4. **Referenece data files**
 
  They are not mandatory. Sequence and annotation are supported if available.
 
@@ -49,4 +49,4 @@ For more detailed explanation for the fields, please refer to the standard below
    - All file names and MD5 values ​​cannot be repeated in the template, expect reference data.
    - The data files that have been submitted cannot be submitted again, judged according to the MD5 value.
    - Both fastq data and aligned data must be submitted at least one.
-   - If need to modify, the assigned accession number can not be modified.
+   - If need to modify, the assigned accession numbers can not be modified.
