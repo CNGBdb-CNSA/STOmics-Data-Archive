@@ -69,6 +69,6 @@ other commands you may use:
 
   rmdir # to remove (delete) a directory in the current remote directory
 
-  delete # to delete (remove) a file in the current remote directory (same as ``rm`` in UNIX)
+  delete # to delete (remove) a file in the current remote directory (same as 'rm' in UNIX)
 
-  quit # to exit the FTP environment (same as ``bye``)
+  quit # to exit the FTP environment (same as 'bye')

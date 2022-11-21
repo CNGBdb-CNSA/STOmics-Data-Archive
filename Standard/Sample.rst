@@ -54,7 +54,7 @@ Description of biological source material; each physically unique specimen shoul
 
 \*geographic location :
 
-* Definition: Geographical origin of the sample; use the appropriate name from this list http://www.insdc.org/documents/country-qualifier-vocabulary. Use a colon to separate the country or ocean from more detailed information about the location, eg "China:Shenzhen" or "China:Hebei:Baoding".
+* Definition: Geographical origin of the sample; use the appropriate name from this list http://www.insdc.org/documents/country-qualifier-vocabulary. Use a colon to separate the country or ocean from more detailed information about the location, e.g. "China:Shenzhen" or "China:Hebei:Baoding".
 * Field Format: restricted text
 * Expected value: country or sea name (INSDC or GAZ):region(GAZ):specific location name
 * Value syntax: {term}:{term}:{text}
