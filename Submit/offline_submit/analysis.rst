@@ -34,7 +34,7 @@ Visium Spatial Gene Expression
 
 **Spatial positions**: ``.csv``, ``.csv.gz`` are accepted, for example, ``tissue_positions_list.csv``.
 
-**Matrices**：``.tar.gz``,``.tar.bz2``, ``.h5`` are accepted for matrix (``raw feature-barcode matrices``, ``filtered feature-barcode matrices``) submission. The ``filtered feature-barcode matrices`` should be provided.
+**Matrices**：``.tar.gz``, ``.tar.bz2``, ``.h5`` are accepted for matrix (``raw feature-barcode matrices``, ``filtered feature-barcode matrices``) submission. The ``filtered feature-barcode matrices`` should be provided.
 
 **Annotation**: Define each cell population according to the marker gene, cell morphology, etc. ``.csv``, ``.txt``, ``.tsv``, ``.csv.gz``, ``.txt.gz``, ``.tsv.gz`` are accepted.
 

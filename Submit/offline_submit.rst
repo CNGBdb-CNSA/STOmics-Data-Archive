@@ -19,6 +19,7 @@ These templates can be downloaded at :download:`https://ftp.cngb.org/pub/stomics
    offline_submit/data_upload
    offline_submit/experiment_run
    offline_submit/analysis
+   offline_submit/other
 
 Character limitation
 ---------------------
