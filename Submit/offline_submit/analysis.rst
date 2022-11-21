@@ -19,6 +19,7 @@ Stereo-seq
 **Annotation**: Define each cell population according to the marker gene, cell morphology, etc. ``.csv``, ``.txt``, ``.tsv``, ``.csv.gz``, ``.txt.gz``, ``.tsv.gz`` are accepted.
 
 There are two types of annotation files.
+
 - Bin. It is mandatory, and bin size also needs to be provided. (``cell annotation``, ``bin size (annotation)``)
 - Cell bin. It is conditional. It can be left blank or fill in "not applicable". (``cell annotation: cell bin``)
 
