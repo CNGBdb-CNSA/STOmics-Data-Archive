@@ -12,28 +12,41 @@ The template is mainly to fill in the name of the relevant data file, the restri
 Stereo-seq
 ----------
 
-   | **Spatial positions**: A binary file that records positions of Coordinate identity (CID) on the Stereo chip. ``Stereo chip mask``, suffixed with ``.h5``, ``.bin``.
-   | **Matrices**：``.gem``, ``.gef``, ``.gem.gz``, ``.tsv``, ``.tsv.gz``, ``.txt``, ``.txt.gz`` are accepted for matrix (``raw feature-spot matrix``, ``filtered feature-spot matrix``) submission. The ``filtered feature-spot matrix`` should be provided and its bin size (``bin size (matrix)``) is also needs to be provided.
-   | **Annotation**: Define each cell population according to the marker gene, cell morphology, etc. ``.csv``, ``.txt``, ``.tsv``, ``.csv.gz``, ``.txt.gz``, ``.tsv.gz`` are accepted.
+**Spatial positions**: A binary file that records positions of Coordinate identity (CID) on the Stereo chip. ``Stereo chip mask``, suffixed with ``.h5``, ``.bin``.
 
-    - There are two types of annotation files.
-       - Bin. It is mandatory, and bin size also needs to be provided. (``cell annotation``, ``bin size (annotation)``)
-       - Cell bin. It is conditional. It can be left blank or fill in "not applicable". (``cell annotation: cell bin``)
+**Matrices**：``.gem``, ``.gef``, ``.gem.gz``, ``.tsv``, ``.tsv.gz``, ``.txt``, ``.txt.gz`` are accepted for matrix (``raw feature-spot matrix``, ``filtered feature-spot matrix``) submission. The ``filtered feature-spot matrix`` should be provided and its bin size (``bin size (matrix)``) is also needs to be provided.
 
-   | **Images**: images taken by microscope (``microscope slide image``) and its corrected images (``registered image``). ``.jpg``, ``.jpeg``, ``.png``, ``.tiff``, ``.tif``, ``.tiff.gz``, ``.tif.gz`` are accepted. They are optional. Both are required if provided. And "not applicable" is accepted for no information.
-   | **Report**: It is optional. The file name needs to be suffixed with ``.html``.
-   | **MD5 list**: It should be provided and must be named with your submission ID, for example, ``sts*******.md5.list``. MD5 values of all files listed in the template should be provided in this file. The file has two columns, **file name** and **MD5 value** in order, separated by spaces or tabs.
+**Annotation**: Define each cell population according to the marker gene, cell morphology, etc. ``.csv``, ``.txt``, ``.tsv``, ``.csv.gz``, ``.txt.gz``, ``.tsv.gz`` are accepted.
+
+  - There are two types of annotation files.
+     - Bin. It is mandatory, and bin size also needs to be provided. (``cell annotation``, ``bin size (annotation)``)
+     - Cell bin. It is conditional. It can be left blank or fill in "not applicable". (``cell annotation: cell bin``)
+
+**Images**: images taken by microscope (``microscope slide image``) and its corrected images (``registered image``). ``.jpg``, ``.jpeg``, ``.png``, ``.tiff``, ``.tif``, ``.tiff.gz``, ``.tif.gz`` are accepted. They are optional. Both are required if provided. And "not applicable" is accepted for no information.
+
+**Report**: It is optional. The file name needs to be suffixed with ``.html``.
+
+**MD5 list**: It should be provided and must be named with your submission ID, for example, ``sts*******.md5.list``. MD5 values of all files listed in the template should be provided in this file. The file has two columns, **file name** and **MD5 value** in order, separated by spaces or tabs.
 
 Visium Spatial Gene Expression
 ------------------------------
 
-   | **Spatial positions**: ``.csv``, ``.csv.gz`` are accepted, for example, ``tissue_positions_list.csv``.
-   | **Matrices**：``.tar.gz``,``.tar.bz2``, ``.h5`` are accepted for matrix (``raw feature-barcode matrices``, ``filtered feature-barcode matrices``) submission. The ``filtered feature-barcode matrices`` should be provided.
-   | **Annotation**: Define each cell population according to the marker gene, cell morphology, etc. ``.csv``, ``.txt``, ``.tsv``, ``.csv.gz``, ``.txt.gz``, ``.tsv.gz`` are accepted.
-   | **scale factors**: It supported json file, for example, ``scalefactors_json.json``.
-   | **Images**: There are two types of images: ``high resolution tissue image`` and ``low resolution tissue image``. The latter is mandatory.
-   | **Report**: It is optional. The file name needs to be suffixed with ``.html`` or ``.csv``.
-   | **MD5 list**: It should be provided and must be named with your submission ID, for example, ``sts*******.md5.list``. MD5 values of all files listed in the template should be provided in this file. The file has two columns, **file name** and **MD5 value** in order, separated by spaces or tabs.
+**Spatial positions**: ``.csv``, ``.csv.gz`` are accepted, for example, ``tissue_positions_list.csv``.
+
+**Matrices**：``.tar.gz``,``.tar.bz2``, ``.h5`` are accepted for matrix (``raw feature-barcode matrices``, ``filtered feature-barcode matrices``) submission. The ``filtered feature-barcode matrices`` should be provided.
+
+**Annotation**: Define each cell population according to the marker gene, cell morphology, etc. ``.csv``, ``.txt``, ``.tsv``, ``.csv.gz``, ``.txt.gz``, ``.tsv.gz`` are accepted.
+
+**scale factors**: It supported json file, for example, ``scalefactors_json.json``.
+
+**Images**: There are two types of images: ``high resolution tissue image`` and ``low resolution tissue image``. The latter is mandatory.
+
+**Report**: It is optional. The file name needs to be suffixed with ``.html`` or ``.csv``.
+
+**MD5 list**: It should be provided and must be named with your submission ID, for example, ``sts*******.md5.list``. MD5 values of all files listed in the template should be provided in this file. The file has two columns, **file name** and **MD5 value** in order, separated by spaces or tabs.
+
+Relevant instructions
+---------------------
 
 For more detailed explanation for the fields, please refer to the standard below:
 
