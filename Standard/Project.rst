@@ -29,7 +29,7 @@ Relevance
 * Definition:
 
   | The scope and purity of the biological sample used for the study.
-  | Choose Multiisolate as the Scope when the goal of the research is to compare multiple individuals or strains of the same species, eg, in a “Variation” or “Genome sequencing and assembly” project.
+  | Choose Multiisolate as the Scope when the goal of the research is to compare multiple individuals or strains of the same species, e.g., in a “Variation” or “Genome sequencing and assembly” project.
   | Choose Multispecies when different species are being examined.
   | Choose Monoisolate if the goal is to make a single genome or transcriptome assembly, even if more than one individual was the source of the DNA or RNA.
 * Value syntax: ['Monoisolate', 'Multiisolate', 'Multispecies', 'Environment', 'Synthetic', 'Other']

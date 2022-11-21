@@ -5,11 +5,11 @@ There are two ways/templates to register Tissue Section. You can choose one to s
 
 - One is registered with **sample name**,
 
-  | You can register tissue sections with ``sample name``, which associated a tissue section to a sample.
+  | You can register Tissue Section with ``sample name``, which associated a tissue section to a sample.
 
 - The other one is registered with **sample accession**.
 
-  | You can also register tissue sections with ``sample accession`` if you get the sample accession number, which is start with 'STSA'.
+  | You can also register Tissue Section with ``sample accession`` if you get the sample accession number, which is start with 'STSA'.
 
 In the **Tissue section** template, the green fields are mandatory, and the yellow fields are optional.
 
@@ -63,4 +63,4 @@ In the **Tissue section** template, the green fields are mandatory, and the yell
 
    - The number of the Tissue Section filled in the template cannot be greater than 100, and the template file cannot be greater than 10MB.
    - ``tissue section alias`` cannot be modified. ``tissue section ID`` can be modified because it is for publication.
-   - If need to modify tissue section, the assigned tissue section accession number can not be modified.
+   - If need to modify Tissue Section, the assigned tissue section accession numbers can not be modified.

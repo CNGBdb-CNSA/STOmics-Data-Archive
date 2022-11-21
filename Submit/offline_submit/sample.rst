@@ -26,7 +26,7 @@ In the **STOmics sample** template, the green fields are mandatory, and the yell
 
 - ``geographic location``
 
- | It is restricted text. It expected to fill in country or sea name (INSDC or GAZ):region(GAZ):specific location name. The value syntax is '{term}:{term}:{text}', eg. "China:Shenzhen" or "China:Hebei:Baoding".
+ | It is restricted text. It expected to fill in country or sea name (INSDC or GAZ):region(GAZ):specific location name. The value syntax is '{term}:{term}:{text}', e.g. "China:Shenzhen" or "China:Hebei:Baoding".
 
 - ``collection date``
 
@@ -35,7 +35,7 @@ In the **STOmics sample** template, the green fields are mandatory, and the yell
 
 - ``latitude and longitude``
 
- | It is restricted text. Specify as degrees latitude and longitude in format "d[d.dddd] N\|S d[dd.dddd] W\|E", eg, 38.98 N 77.11 W.
+ | It is restricted text. Specify as degrees latitude and longitude in format "d[d.dddd] N\|S d[dd.dddd] W\|E", e.g., 38.98 N 77.11 W.
 
 
 For more detailed explanation for the fields, please refer to the standard below:
@@ -52,4 +52,4 @@ For more detailed explanation for the fields, please refer to the standard below
    - Each of your samples must have differentiating information (excluding ``sample name``, ``sample title``, and ``description``). This check was implemented to encourage submitters to include distinguishing information in their samples. If it is necessary to represent true biological replicates as separate Samples, you might add an 'aliquot' or 'replicate' attribute, e.g., 'replicate = biological replicate 1', as appropriate.
    - The ``taxonomy ID`` and ``organism`` should be consistent with each other.
    - ``geographic location`` and ``latitude and longitude`` (if filled in) should be consistent with each other.
-   - If need to modify sample, the assigned sample accession number can not be modified.
+   - If need to modify Sample, the assigned sample accession numbers can not be modified.

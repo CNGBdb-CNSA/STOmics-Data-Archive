@@ -18,6 +18,7 @@ These templates can be downloaded at :download:`https://ftp.cngb.org/pub/stomics
    offline_submit/tissue_section
    offline_submit/data_upload
    offline_submit/experiment_run
+   offline_submit/analysis
 
 Character limitation
 ---------------------
